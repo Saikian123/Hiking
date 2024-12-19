@@ -1,0 +1,45 @@
+/* Task4.css */
+
+/* Base styles for the container */
+.app-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  /* Light mode styles */
+  .light-mode {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  /* Dark mode styles */
+  .dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  /* Base styles for the button */
+  .toggle-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  /* Light mode button styles */
+  .light-mode-button {
+    background-color: #ddd;
+    color: #000;
+  }
+  
+  /* Dark mode button styles */
+  .dark-mode-button {
+    background-color: #555;
+    color: #fff;
+  }
+  

@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "hello",
+      "password": "hello@123"
+    },
+    {
+      "id": "2",
+      "username": "hello1",
+      "password": "hello@"
+    },
+    {
+      "id": "3",
+      "username": "teja",
+      "password": "teja@123"
+    },
+    {
+      "id": "4",
+      "username": "ram",
+      "password": "ram@12"
+    },
+    {
+      "id": "5",
+      "username": "raju",
+      "password": "raju"
+    },
+    {
+      "id": "6",
+      "username": "hello3",
+      "password": "hello3"
+    },
+    {
+      "id": "7",
+      "username": "hellor",
+      "password": "hellor"
+    },
+    {
+      "id": "8",
+      "username": "vasu",
+      "password": "vasu"
+    },
+    {
+      "id": "9",
+      "username": "vasu1",
+      "password": "vasu1"
+    },
+    {
+      "id": "10",
+      "username": "Rest",
+      "password": "Resst@"
+    },
+    {
+      "id": "11",
+      "username": "saiee",
+      "password": "saiee"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "name": "Task One",
+      "status": "Pending"
+    },
+    {
+      "id": "2",
+      "name": "Task Two",
+      "status": "Completed"
+    }
+  ]
+}

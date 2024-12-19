@@ -1,0 +1,23 @@
+/* Task6.css */
+
+.parent-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  .parent-header {
+    margin-bottom: 20px;
+  }
+  
+  .child-data-display {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  

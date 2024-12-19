@@ -1,0 +1,27 @@
+/* CCtask6.css */
+
+.child-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.child-header {
+  margin-bottom: 15px;
+}
+
+.child-input {
+  padding: 8px;
+  width: 200px;
+  margin-right: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.child-button {
+  padding: 8px 12px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
